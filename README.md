@@ -1,2 +1,2 @@
-# SGI
-Sistema de Gestão Istari
+# IMS
+Istari's Management Sysstem
